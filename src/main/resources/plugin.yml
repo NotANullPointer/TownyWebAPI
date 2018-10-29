@@ -1,0 +1,3 @@
+name: TownyWebAPI
+version: ${project.version}
+main: me.notnull.townywebapi.TownyWebAPI
